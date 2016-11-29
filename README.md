@@ -10,3 +10,4 @@ cover is less than 5%.
 REFERENCE:
 
 Nam, C., S. Bony, J.-L. Dufresne, and H. Chepfer, The "too few, too bright" tropical low-cloud problem in CMIP5 models, Geophys. Res. Lett., 39, L21801, doi:10.1029/2012GL053421, 2012.
+ 
