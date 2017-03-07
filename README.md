@@ -11,8 +11,8 @@ cover is less than 5%.
 1) Nam, C., S. Bony, J.-L. Dufresne, and H. Chepfer, The "too few, too bright" tropical low-cloud problem in CMIP5 models, Geophys. Res. Lett., 39, L21801, doi:10.1029/2012GL053421, 2012.
 
 
-# Model Input Variables (example)
-|  Frequency |	Variable |	Variable labels |	Unit |	Example File |
+# Model Input Variables
+| Frequency |	Variable |	Variable labels |	Unit |	Example File |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Monthly | Surface pressure | ps | Pa | ps_Amon_IPSL-CM5B-LR_amip_r1i1p1_197901-200812.nc
 | | Surface temperature | ts | K | ts_Amon_IPSL-CM5B-LR_amip_r1i1p1_197901-200812.nc
@@ -24,17 +24,16 @@ cover is less than 5%.
 | | 3D Cloud Fraction COSP lidar simulator | clcalipso | % | clcalipso_cfMon_IPSL-CM5B-LR_amip_r1i1p1_197901-200812.nc
 | | Cloud Reflectance PARASOL | parasolRefl | 1 | parasolRefl_cfMon_IPSL-CM5B-LR_amip_r1i1p1_197901-200812.nc
 
-# Satellite / Reanalysis Input Variables
-ERA_interim
-|  Frequency |	Variable |	Variable labels |	Unit |	
+# Era Interim Re-analysis Input Variables
+| Frequency |	Variable |	Variable labels |	Unit |	
 | ------------- | ------------- | ------------- | ------------- | 
 | Monthly | Surface pressure | sp | Pa |
 | | 2 metre temperature | t | K |
 | | Temperature | t | K |
 | | Vertical velocity | w | Pa s-1 |
 
-# Obs4MIPS
-|  Frequency |	Variable |	Variable labels |	Unit |	
+# Obs4MIPS Input Variables
+| Frequency |	Variable |	Variable labels |	Unit |	
 | ------------- | ------------- | ------------- | ------------- | 
 | Monthly | High-level Cloud fraction CALIPSO-GOCCP |	clhcalipso |	% 	|
 | | Mid-level Cloud fraction CALIPSO-GOCCP | clmcalipso |	% 	|
