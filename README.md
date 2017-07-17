@@ -12,6 +12,9 @@ cover is less than 5%.
 
 
 # Model Input Variables
+The code makes use of the following data, all of which are available at https://github.com/chriscnam/CFMIP_LowCloudDistribution/tree/master/data , except for the observed 3D Cloud Fraction due to file size limitations.
+
+
 | Frequency |	Variable |	Variable labels |	Unit |	Example File |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Monthly | Surface pressure | ps | Pa | ps_Amon_IPSL-CM5B-LR_amip_r1i1p1_197901-200812.nc
@@ -40,3 +43,5 @@ cover is less than 5%.
 | |	Low-level Cloud Fraction CALIPSO-GOCCP |	cllcalipso |	% |
 | | 3D Cloud Fraction CALIPSO-GOCCP |	clcalipso |	% | 
  
+# Figure Generation
+This script processes and draws the figure 'VertDist_LowCld_Metrics_CNam.png'
