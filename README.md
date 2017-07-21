@@ -43,5 +43,5 @@ The code makes use of the following data, all of which are available at https://
 | |	Low-level Cloud Fraction CALIPSO-GOCCP |	cllcalipso |	% |
 | | 3D Cloud Fraction CALIPSO-GOCCP |	clcalipso |	% | 
  
-# Figure Generation
+# Output
 This script processes and draws the figure 'VertDist_LowCld_Metrics_CNam.png'
